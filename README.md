@@ -4,7 +4,7 @@ Hey there, this is my GitHub account. You can find the capstone project I did as
 
 ## 📜 Course Overview
 
-The XML Writing Certification Course covers foundational to advanced concepts in XML (eXtensible Markup Language). It focuses on developing skills to structure, create, and manage XML documents, a key skill set for technical writers and content managers.
+The XML Writing Certification Course covers foundational to advanced concepts in eXtensible Markup Language (XML). It focuses on developing skills to structure, create, and manage XML documents, a key skill set for technical writers and content managers.
 
 The course includes:
 
