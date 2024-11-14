@@ -30,7 +30,9 @@ The capstone project demonstrates the final application of XML writing skills le
 
 ### **2. Runbooks and Knowledge Articles Samples**
 
-This folder contains samples of runbooks and knowledge articles published in Confluence. You can view the full collection online at [this link](https://leandrolacunzaportfolio.atlassian.net/wiki/spaces/KB/overview).
+This folder contains samples of runbooks and knowledge articles. 
+
+To view the HTML output, open *index.html* located in the ```runbooks-and-knowledge-articles\knowledge-articles\out\webhelp-responsive\``` directory.
 
 > **Note:** Both folders are password protected. To obtain the password, please contact me at my email: **leandro.lacunza.m@gmail.com**.
 
